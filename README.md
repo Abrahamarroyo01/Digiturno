@@ -1,5 +1,3 @@
-# Digiturno
-
 # Digiturno 🕒
 
 Sistema de gestión de turnos desarrollado en C# (consola) — Versión 1.
