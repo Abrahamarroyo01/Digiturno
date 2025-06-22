@@ -1,0 +1,10 @@
+C:\Users\abrah\Documents\Proyectos\Digiturno1\Digiturno1\obj\Debug\Digiturno1.csproj.AssemblyReference.cache
+C:\Users\abrah\Documents\Proyectos\Digiturno1\Digiturno1\obj\Debug\Digiturno1.Properties.Resources.resources
+C:\Users\abrah\Documents\Proyectos\Digiturno1\Digiturno1\obj\Debug\Digiturno1.csproj.GenerateResource.cache
+C:\Users\abrah\Documents\Proyectos\Digiturno1\Digiturno1\obj\Debug\Digiturno1.csproj.CoreCompileInputs.cache
+C:\Users\abrah\Documents\Proyectos\Digiturno1\Digiturno1\bin\Debug\Digiturno1.exe.config
+C:\Users\abrah\Documents\Proyectos\Digiturno1\Digiturno1\bin\Debug\Digiturno1.exe
+C:\Users\abrah\Documents\Proyectos\Digiturno1\Digiturno1\bin\Debug\Digiturno1.pdb
+C:\Users\abrah\Documents\Proyectos\Digiturno1\Digiturno1\obj\Debug\Digiturno1.exe
+C:\Users\abrah\Documents\Proyectos\Digiturno1\Digiturno1\obj\Debug\Digiturno1.pdb
+C:\Users\abrah\Documents\Proyectos\Digiturno1\Digiturno1\obj\Debug\Digiturno1.exe.config
