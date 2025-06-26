@@ -1,0 +1,14 @@
+C:\Users\abrah\Documents\Proyectos\Digiturno\Digiturno\obj\Debug\net8.0\Digiturno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abrah\Documents\Proyectos\Digiturno\Digiturno\obj\Debug\net8.0\Digiturno.AssemblyInfoInputs.cache
+C:\Users\abrah\Documents\Proyectos\Digiturno\Digiturno\obj\Debug\net8.0\Digiturno.AssemblyInfo.cs
+C:\Users\abrah\Documents\Proyectos\Digiturno\Digiturno\obj\Debug\net8.0\Digiturno.csproj.CoreCompileInputs.cache
+C:\Users\abrah\Documents\Proyectos\Digiturno\Digiturno\bin\Debug\net8.0\Digiturno.exe
+C:\Users\abrah\Documents\Proyectos\Digiturno\Digiturno\bin\Debug\net8.0\Digiturno.deps.json
+C:\Users\abrah\Documents\Proyectos\Digiturno\Digiturno\bin\Debug\net8.0\Digiturno.runtimeconfig.json
+C:\Users\abrah\Documents\Proyectos\Digiturno\Digiturno\bin\Debug\net8.0\Digiturno.dll
+C:\Users\abrah\Documents\Proyectos\Digiturno\Digiturno\bin\Debug\net8.0\Digiturno.pdb
+C:\Users\abrah\Documents\Proyectos\Digiturno\Digiturno\obj\Debug\net8.0\Digiturno.dll
+C:\Users\abrah\Documents\Proyectos\Digiturno\Digiturno\obj\Debug\net8.0\refint\Digiturno.dll
+C:\Users\abrah\Documents\Proyectos\Digiturno\Digiturno\obj\Debug\net8.0\Digiturno.pdb
+C:\Users\abrah\Documents\Proyectos\Digiturno\Digiturno\obj\Debug\net8.0\Digiturno.genruntimeconfig.cache
+C:\Users\abrah\Documents\Proyectos\Digiturno\Digiturno\obj\Debug\net8.0\ref\Digiturno.dll
